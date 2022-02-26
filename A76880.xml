@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight neer Newark, between the Kings forces commanded by two Scottish colonels, and the Parliaments forces commanded by Colonell Hacker, upon Friday night last, July 28. With the number that were killed, wounded, and taken prisoners, and their design to secure Nottingham Castle for the King. Also, a fight between Lieut. Gen. Cromwels horse, and the Scottish forces, and the event thereof. And the revolting of the strong Castle of Scarborough in Yorkshire, from the obedience of Parliament, and declaring for the King, and their hanging out a flag of defiance against all independent government. Likewise, the further desires of the citizens of London, to both Houses of Parliament, concerning the listing of forces within the City, and their treaty at Guild-Hall. And the resolution of the House of Peers to live and die with the citizens.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76880</idno>
+            <idno type="STC">Wing B3252</idno>
+            <idno type="STC">Thomason E456_13</idno>
+            <idno type="STC">ESTC R205043</idno>
+            <idno type="EEBO-CITATION">99864487</idno>
+            <idno type="PROQUEST">99864487</idno>
+            <idno type="VID">162045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162045)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight neer Newark, between the Kings forces commanded by two Scottish colonels, and the Parliaments forces commanded by Colonell Hacker, upon Friday night last, July 28. With the number that were killed, wounded, and taken prisoners, and their design to secure Nottingham Castle for the King. Also, a fight between Lieut. Gen. Cromwels horse, and the Scottish forces, and the event thereof. And the revolting of the strong Castle of Scarborough in Yorkshire, from the obedience of Parliament, and declaring for the King, and their hanging out a flag of defiance against all independent government. Likewise, the further desires of the citizens of London, to both Houses of Parliament, concerning the listing of forces within the City, and their treaty at Guild-Hall. And the resolution of the House of Peers to live and die with the citizens.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.W. and are to be sold neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.4: John Reynarson.</note>
+                  <note>Annotation on Thomason copy: "Aug: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Newark (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162045:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT NEER NEWARK, BETWEEN The Kings Forces commanded by two Scottiſh Colonels, and the Parliaments. Forces commanded by Colonell <hi>Hacker,</hi> upon Friday night laſt, July 28. With the number that were killed, wounded, and taken priſoners, and their deſign to ſecure <hi>Not<g ref="char:EOLhyphen"/>tingham Caſtle</hi> for the <hi>King.</hi>
+            </p>
+            <p>Alſo, a Fight between Lieut. Gen. <hi>Cromwels</hi> Horſe, and the Scottiſh Forces, and the event thereof. And the revolting of the ſtrong Caſtle of <hi>Scarborough</hi> in Yorkſhire, from the obedience of <hi>Parliament,</hi> and decla<g ref="char:EOLhyphen"/>ring for the <hi>King,</hi> and their hanging out a Flag of Defiance againſt all Inde<g ref="char:EOLhyphen"/>pendent Government.</p>
+            <p>Likewiſe, the further Deſires of the <hi>Citizens</hi> of <hi>London,</hi> to both Houſes of <hi>Parliament,</hi> concerning the Liſting of Forces within the <hi>City,</hi> and their Treaty at Guild-Hall. And the Reſolution of the Houſe of Peers to live and die with the <hi>Citizens.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. W.</hi> and are to be ſold neer the Royall Exchange in <hi>Cornhill,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162045:2"/>
+            <pb n="1" facs="tcp:162045:2"/>
+            <head>A dangerous FIGHT NEER NEWARK Between the Parliaments Forces, and the Scotch Cava<g ref="char:EOLhyphen"/>leers, and how they would have ſurprized <hi>Nowark</hi> and <hi>Nottingham</hi> Caſtle.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Scots Allarm hath awakened the ſtupid ſpirits of theſe Counties, they are putting themſelves into a poſture to receive them, and the three Counties of <hi>Northampton ſhire, Lieceſter ſhire,</hi> and <hi>Rutland,</hi> are joyned in a mutuall League and Aſſociation, to preſerve the peace of
+<pb n="2" facs="tcp:162045:3"/>their native Counties, and to hinner the Scots advancing Southward, and being in a great forwardneſſe of facilia<g ref="char:EOLhyphen"/>ting the ſaid Work, the Royaliſts began to endeavour the eclipſing thereof, and had ſeverall private meetings in di<g ref="char:EOLhyphen"/>vers parts of theſe Counties, for the liſting of men inviſible and to gather a Head, whereby they might oppoſe and ob<g ref="char:EOLhyphen"/>ſtruct the proceedings of the well-affected party, and to that end had gathered many hundreds together, ſecured <hi>Worten</hi> Hall, fixe miles from <hi>Nottingham,</hi> and were promiſed to have had <hi>Newark</hi> Caſtle betrayed to them, but by provi<g ref="char:EOLhyphen"/>vidence prevented.</p>
+            <p>And upon Fryday night laſt, a party of them approached neer the town, according to inſtructions, where Col. <hi>Hac<g ref="char:EOLhyphen"/>kers</hi> troop advanced towards them, and ſending out a party, to diſcover what they were, three of the Royaliſts rode out, and fired, Col. <hi>Hackers</hi> Scouts anſwered them again, and retreated to the troop. About 8. of the clock at night, both parties bodied, and diſputed the place with hard ſervice within half a mile of the town; after ſome conflict, the Royaliſts retreat, the Parliaments Forces purſue, doing exe<g ref="char:EOLhyphen"/>cution, killed eleven, and took 7 priſoners, with the loſſe of three men and one Cornet wounded; and had not the night appeared too faſt upon us, we had taken many more: this allarm hath forced them to quit <hi>Worten</hi> Hall, and are re<g ref="char:EOLhyphen"/>treated up towards <hi>Boston,</hi> where Col. <hi>Hacker</hi> is in purſuit of them.</p>
+            <p>Some of the priſoners taken, confeſſe, That their Com<g ref="char:EOLhyphen"/>manders in chiefe were Scotch-men, and divers of the Sol<g ref="char:EOLhyphen"/>diers, who had taken up their habitation in theſe parts ever ſince the laſt Leagure at <hi>Newark.</hi>
+            </p>
+            <p>They further purported, that they expected the Earle of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alender</hi> to be with them before the 2. of <hi>Auguſt.</hi> and that
+<pb n="3" facs="tcp:162045:3"/>he was to bring an Army of 8000 Horſe and Foot with him: which if they doe, our Forces are reſolved to fight them, part of them being advanced towards <hi>Trent.</hi>
+            </p>
+            <p>In theſe three aſſociated Counties there are ſaid to be rai<g ref="char:EOLhyphen"/>ſed at the leaſt ten thouſand Horſe and Foot, the Lord <hi>Grey</hi> of <hi>Groby</hi> being Commander in chief, who deports himſelfe with much gallantry, and is very vigilant and carefull to preſerve the peace and quiet of theſe Counties.</p>
+            <p>The new raiſed Forces of this Aſſociation, are drawn in<g ref="char:EOLhyphen"/>to a Regimental poſture of Diſcipline, and all Officers from the higheſt to the loweſt have entred into their ſeveral pla<g ref="char:EOLhyphen"/>ces of command.</p>
+            <p>Divers Miniſters are made choice of for Captains, who ſtiss up the Souldiers and Inhabitants exceedingly, both in field and Pulpit, to be unanimous and couragious in this great Work of the Lord, againſt the prevalent and inſolent party, who endeavours the ſubverſion of the truth of Jeſus Chriſt in the Church of <hi>England.</hi>
+            </p>
+            <p>We have waded through many difficulties ſince the firſt raiſing of our Forces, and met with much oppoſition, yet appeaſed and quieted our enemies.</p>
+            <p>We have had ſeverall Commotions and Inſurrections, to retard the great Work in hand; but moſt of them are now laid and diſſolved.</p>
+            <p>By the laſt Poſt from Lincoln it is advertized, That the impregnable and ſtrong Caſtle of <hi>Starborough</hi> in York<g ref="char:EOLhyphen"/>ſhire is revolted from the obedience of the Parliament and have declared for the King, which occaſions much diſtra<g ref="char:EOLhyphen"/>ctions and fears in the Weſt Riding, divers reſorting thi<g ref="char:EOLhyphen"/>ther from ſeverall parts adjacent, who declares their Reſo<g ref="char:EOLhyphen"/>lution to fight for the Kings Majeſty, and to re inveſt His Royall Perſon.</p>
+            <pb n="4" facs="tcp:162045:4"/>
+            <p>It is feared much bloud will be ſpilt before this place be reduced, they have hung forth a flag of Defiance with this Motto, <hi>Down with Independency.</hi>
+            </p>
+            <p>Some conjecture that the Prince of <hi>Wales</hi> will be invited thither, and that the Scots will haſten their march South<g ref="char:EOLhyphen"/>ward, which is all at preſent, from</p>
+            <closer>
+               <signed>
+                  <hi>Your most aſsured friend,</hi> John Reynardſon.</signed>
+               <dateline>
+                  <hi>Mounſtril</hi> 
+                  <date>29. July, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <hi>From the North</hi> 
+                  <date>July 30. 1648.</date>
+               </dateline>
+            </opener>
+            <p>DUke <hi>Hamilton</hi> is upon his march towards <hi>Bowes</hi> and <hi>Stainmore,</hi> and thought to have forced his way at <hi>Stainmore</hi> paſſage, but was preſented; for Major Generall <hi>Lambert</hi> having placed a very conſiderable party to ſecure the ſaid Bridge and paſſage, and a Briggade of the Scots comming up, thinking to paſſe the River, found oppo<g ref="char:EOLhyphen"/>ſition, and the quarrell diſputed for the ſpace of two hours, and had not another Briggade of the Scots come up, we had been Maſters of the day; but ſeeing our ſelvs over-pow<g ref="char:EOLhyphen"/>red, made an honourable retreat towards Barnard Caſtle, which was ſix or ſeven miles diſtant from us, the enemy purſued about three miles, but at a diſtant, they over-powr us exceedingly in Foot, and have great numbers of horſe. In this conflict we loſt about 30. men, and brought off about 20 which were wounded; the loſſe of the enemy is thought to be far more.</p>
+            <pb n="5" facs="tcp:162045:4"/>
+            <p>We are daily in action, and have hard duty, our numbers being not potent enough. We expect Lieutenant Gen. <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> and his Forces dayly, whom the Scots ſay they will ſoundly cudgell, and are reſolved to fight him, though he be never ſo ſtrong. Indeed, they have a very potent Army, be<g ref="char:EOLhyphen"/>ſides, they expect 3000. from Major Generall <hi>Monro,</hi> and another Army from <hi>Scotland,</hi> to march by the way of <hi>Ber<g ref="char:EOLhyphen"/>wick.</hi>
+            </p>
+            <p>The Earl of <hi>Kalender</hi> Lieut. Gen. to Duke <hi>Hambleton</hi> is marched over <hi>Berwick</hi> bridge into <hi>England,</hi> with a ſecond Army conſiſting of about 8000. with whom comes <hi>Deere Saundy Hambleton</hi> the famous Engineer, the L. <hi>Lanerick</hi> is Governour of the town of <hi>Berwick.</hi> We hear that they have fallen upon Col. <hi>Lilburns</hi> quarters in <hi>Northumberland,</hi> took about 27. priſoners, 50. horſe, and two Cullers. It is ſaid, that they intend to march directly for <hi>Colchecter,</hi> &amp;c.</p>
+            <p>Major Gen. <hi>Lambert</hi> is loath to engage his main Body with the Scots, untill Lieutenant Generall <hi>Cromwel</hi> and the additionall Forces are come up, who are ſaid to be on their march as far as <hi>Aſhby-de-la-zouch.</hi> The Horſe which came from Penbroke are united with the Lancaſhire Forces, and have fallen upon a party of the Scots within ſix miles of <hi>Barnard</hi> Caſtle, took ſome of their little Hobbies, many Blew-Caps, and ſome Armes, killed ſix or ſeven, and woun<g ref="char:EOLhyphen"/>ded as many.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Ferrie-bridge</hi> 
+                     <date>July 28. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>Upon Satterday laſt divers of the Common-councell of the City of <hi>London</hi> preſented a Petition from the Lord Ma<g ref="char:EOLhyphen"/>jor, Aldermen, and Commons, in Common-counbell aſ<g ref="char:EOLhyphen"/>ſembled, to the honourable houſes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament, ſetting forth therein how much the City of <hi>London</hi> was unſatisfi<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:162045:5"/>and jealous of the Liſting of Horſe and Foot, under the command of Major Gen. <hi>Skippon,</hi> and therefore humbly de<g ref="char:EOLhyphen"/>ſire, <hi>That no more liſtings under him may be permitted, unleſse by him and the Committee of the Militia of</hi> London, <hi>and that ſuch as are liſhed already under him may be dumiſt and diſ<g ref="char:EOLhyphen"/>banded.</hi> The Houſe willing to give the Petitioners any rea<g ref="char:EOLhyphen"/>ſonable ſatisfaction, Ordered that a Committee of the houſe of <hi>Commons</hi> ſhould conſider of the ſaid Petition, and confer with a Common-councell of the City of <hi>London</hi> about the ſame, and the grounds and reaſons thereof, and of the ſaid jealouſie, and to report to the Houſe with all convenient ſpeed. They further Ordered that the Lord Major of the City of <hi>London</hi> ſhould be deſired to call a Common-coun<g ref="char:EOLhyphen"/>cell againſt Munday next in the afternoon to confer with a Committee of the Houſe of Commons concerning the grounds and reaſons of the laſt Petition of the City. The Lords gave the Petitioners great ſatisfaction in their An<g ref="char:EOLhyphen"/>ſwer to it, adding that their Lordſhips would live and dye with them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
